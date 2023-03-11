@@ -1,6 +1,5 @@
 {
   "postUpdateOptions": [
-    "yarnDedupeHighest",
     "gomodTidy"
   ]
 }
